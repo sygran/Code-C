@@ -39,6 +39,6 @@ MAKE_ARRAY_SUM_FUNCTION(long_array_sum, long)
 int abrakadabra = 13;
 VAR_PRINT(abrakadabra);
 // Макрос раскрывает в выражение
-printf("%s = %d\n", "abrakadabra", abrakadabra);
+// printf("%s = %d\n", "abrakadabra", abrakadabra);
 // Напечатает так
 abrakadabra = 13
